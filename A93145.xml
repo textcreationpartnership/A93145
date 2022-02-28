@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prospective glasse for the revolters at sea, and new malignants at land: being a letter sent from Sir Anthony Saintleger, an attendant on the Prince, to a person of quality in Colchester. Where by may bee clearly discerned how the Prince doth intend to land the sea-men, and ship the land-men that have served the Parliament against the King, and now serve the King against the Parliament.</title>
+            <author>Saint-Leger, Anthony, Sir, d. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93145</idno>
+            <idno type="STC">Wing S337</idno>
+            <idno type="STC">Thomason E460_39</idno>
+            <idno type="STC">ESTC R205154</idno>
+            <idno type="EEBO-CITATION">99864591</idno>
+            <idno type="PROQUEST">99864591</idno>
+            <idno type="VID">162156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162156)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prospective glasse for the revolters at sea, and new malignants at land: being a letter sent from Sir Anthony Saintleger, an attendant on the Prince, to a person of quality in Colchester. Where by may bee clearly discerned how the Prince doth intend to land the sea-men, and ship the land-men that have served the Parliament against the King, and now serve the King against the Parliament.</title>
+                  <author>Saint-Leger, Anthony, Sir, d. 1680.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug ye 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162156:1" rendition="simple:additions"/>
+            <p>A Proſpective Glaſſe For the Revolters at Sea, AND <hi>New Malignants at Land:</hi>
+            </p>
+            <p>Being a Letter ſent from Sir <hi>Anthony Saint<g ref="char:EOLhyphen"/>leger,</hi> an Attendant on the Prince, to a Perſon of quality in <hi>COLCHESTER.</hi> Whereby may bee clearly diſcerned how the Prince doth intend to land the Sea-men, and ſhip the land-men that have ſerved the Parliament againſt the King, And now ſerve the KING againſt the Parliament.</p>
+            <q>
+               <bibl>PSAL. 46.3.</bibl>
+               <p>Put not your truſt in Princes, nor in the ſonne of man, in whom there is no help.</p>
+            </q>
+            <p>
+               <add>
+                  <abbr>Aug</abbr> y<hi rend="sup">e</hi> 25</add> 
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162156:2"/>
+            <pb n="1" facs="tcp:162156:2"/>
+            <head>A Proſpective-glaſſe for the Revol<g ref="char:EOLhyphen"/>ters at SEA, and new Ma<g ref="char:EOLhyphen"/>lignants at LAND.</head>
+            <opener>
+               <salute>Thrice Noble Couſin,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU cannot thinke how it joyes my heart, that any of my Kinne be ſo va<g ref="char:EOLhyphen"/>lorous; ere long you ſhall ſee your Father a Biſhop, and that function as glorious as ever. As for thoſe that cowardly left you, they will be as wel hang'd, as all the <hi>Independent</hi> Round-heads; For all that have borne Armes for this corrupt Parlia<g ref="char:EOLhyphen"/>ment, muſt hang all:
+<note place="margin">An omi<g ref="char:EOLhyphen"/>nous mi<g ref="char:EOLhyphen"/>ſtake.</note> and then I doubt not but to have our auncient Land as formerly, in whoſe hands ſoever it is. As for <hi>Hales,</hi> wee have enough of him; ſpeake the Round-heads faire, and be kind to them till wee have all as wee would, and then have at all, take notice of all that runne from you.</p>
+            <p>Had not the drunken <hi>Dutch,</hi> and cowardly <hi>French</hi> deceived us, wee had relieved you long ſince, and then a figge for the Treaty; yet it hath taken well for us of any thing. A poxe of the <hi>Scots,</hi> they have done us more hurt then good, they are crafty Rogues, but we will order them, if we get but <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+               <pb n="2" facs="tcp:162156:3"/>as wee would. Many here turned cowards or fooles, yet hanging on his Highneſſe ſhameleſly. We want money, that is the thing; wee know not how to truſt the turne-coate Marriners: But his Highneſſe will never forget their forwardneſſe to aſſiſt the Parliament at firſt, we wil pay them at laſt. The rogues begin to grumble for want; <hi>I. P.</hi> is tur<g ref="char:EOLhyphen"/>ned Sott, <hi>R. H.</hi> frenzie, <hi>N. C.</hi> coward. If wee doe not ſomething ſpeedily, or can land, and have ſome to joyne with us, all is loſt. Wee can doe no conſi<g ref="char:EOLhyphen"/>derable ſervice for the Caſtle: and if you hold out you are brave fellowes; If that blacke <hi>Tom</hi> and <hi>Noll</hi> were dead, all were our owne. Wee drinke your treble healths every day, I doubt not but you do the like for us. Yeſternight my Maſter ſaid to me, here is to Sir <hi>Walrom Horſemande,</hi>
+               <note place="margin">Reader, take it as it is, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh this paſ<g ref="char:EOLhyphen"/>ſage ſeems non-ſenſe.</note> this or more, or either land or Officer to maintaine it. My ſervice to your three noble Perſonages with you, Lords or Dukes at the leaſt: However we ſpeed, our enemies are ſo disjoynted, that they will never be knit againe. Ex<g ref="char:EOLhyphen"/>cuſe my haſt that am ever</p>
+            <closer>
+               <signed>Your indulgent Unkle I am <hi>Anthony Saintleger.</hi>
+               </signed> 
+               <dateline>Downes, <date>15. July, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Promiſe land or Offices, any thing for our deſigne,</p>
+            </postscript>
+         </div>
+         <div type="comments_on_letter">
+            <pb n="3" facs="tcp:162156:3"/>
+            <head>A ſhort Paraphraſe upon the LETTER.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Ctions of Deceit are alwayes re<g ref="char:EOLhyphen"/>compenſed with Deceit in the end, and treachery to truſt is ever re<g ref="char:EOLhyphen"/>warded with jealouſie in truſting; deceitfull workes have deceitfull wages, and he that thinks with <hi>Ju<g ref="char:EOLhyphen"/>das</hi> to multiply his pence by be traying his Maſter, ſhall find that when his accounts are audited, they will amount to an halter, as doe clearly appeare by the preceding letter, wherein you may perceive</p>
+            <p>Firſt, what their deſigne is in point of Reforma<g ref="char:EOLhyphen"/>tion, the expected Presbytery will be the <hi>quondam</hi> Epiſcopacy, witneſſe theſe words, <hi>Ere long you ſhall ſee your father a Biſhop, and that function as glorious as ever, and I doubt not but to have our ancient la<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as for<g ref="char:EOLhyphen"/>merly, in whoſe hands ſoever it is.</hi> Heare this all yee pious Presbyters, and be yee admoniſhed yee pur<g ref="char:EOLhyphen"/>chaſers of Biſhops lands your monies had been bet<g ref="char:EOLhyphen"/>ter imployed at ſix in the hundred, and I beleeve you had better have given an hundred for ſix; for you muſt build what you h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve puld down, and pay dearly for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our adjudged <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>riledge.</p>
+            <p>Second<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Ro<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dheads are Independents, and all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Parliament, are Round heads, a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all Round-heads muſt bee
+<pb n="4" facs="tcp:162156:4"/>hang'd, for ſo ſaith the Letter: <hi>As for thoſe that cow<g ref="char:EOLhyphen"/>ardly left you, they will be as well hang'd as all the Inde<g ref="char:EOLhyphen"/>pendent Round-heads; for all that have born Armes for this corrupt Parliament, muſt hang all.</hi> Where we may note:</p>
+            <p>Thirdly, the ominous placing their jocund Lan<g ref="char:EOLhyphen"/>guage: for in ſtead of ſaying they muſt all be hang'd, their pen ſtumbled at the gallowes, and left them<g ref="char:EOLhyphen"/>ſelves there: for thus it runs, that all that have born Arms for the Parliament, muſt hang all, <hi>viz.</hi> thoſe that have oppoſed them. If ſo, <hi>feſtin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Deus.</hi>
+            </p>
+            <p>Fourthly, we ſee their deſigne in courting their freſh allies made up of the Parliament party, thus, <hi>Speak the Round-heads faire, and be kinde to them till you have all, and then have at all.</hi>
+            </p>
+            <p>Fifthly, ſee their tamperings with other nations to enſlave us all: the ſcum of other Countries muſt come to help up Englands intereſt, <hi>Had not the drunken Dutch and cowardly French deceived us, we had relieved you long ſince.</hi>
+            </p>
+            <p>Sixthly, their great game, and preſent advanta<g ref="char:EOLhyphen"/>ges by a perſonall treaty, that is their Springe to catch Woodcockes withall, <hi>A fig for the Treaty, yet it bath taken well for us of any thing.</hi>
+            </p>
+            <p>Seventhly, their zeale for their deare brethren the Scots, is diſcern'd by their prayers for them, <hi>A pox of the Scots, they have done us more hurt then good, they are crafty Rogues, but we will order them if we get but England.</hi>
+            </p>
+            <p>Eightly the revolting Sea-men begin to languiſh, <hi>Many here turn cowards, or fooles, yet hang upon his Highneſſe ſhameleſly.</hi>
+            </p>
+            <p>Ninthly, ſee their high opinion of the treache<g ref="char:EOLhyphen"/>rous
+<pb n="5" facs="tcp:162156:4"/>Seamen; we know not how to truſt the <hi>Turn<g ref="char:EOLhyphen"/>coate Marriners: but his Highneſſe will never forget their forwardneſſe to aſsiſt the Parliament at firſt, we wil pay them at laſt: the Rogues begin to grumble for want.</hi>
+            </p>
+            <p n="10">10. Their braveſt ſpirits are diſpirited, and their moſt Capitall captivated. J. P. <hi>is turned ſot,</hi> R. H. <hi>frenzie,</hi> N. C. <hi>coward.</hi> By theſe wee preſume is meant not the meaneſt.</p>
+            <p n="11">11. See their deſperate condition for all their vapouring. <hi>If wee doe not ſomething ſpeedily, or can land and have ſome to joyne with us, all is loſt.</hi> And for the better underſtanding of their preſent caſe, know that this letter was dated the 15. of <hi>July,</hi> 1648. ſince which you know in what coyne they have been paid in <hi>Kent,</hi> upon their attempts of landing once and againe.</p>
+            <p n="12">12. We ſee the remora of their preſent hopes; <hi>if that blacke</hi> Tom, <hi>and</hi> Noll <hi>were dead all was our own.</hi> Is't not pitty that ſuch Traitors ſhould live that preſerve the Kingdome (through God) from utter ruine, and that theſe ſhould be hang'd, keeping us all from the gallows?</p>
+            <p n="13">13. See their devotion, prayers &amp; remembrance each of other at the throne of the Devill. <hi>We drinke your treble healths every day, I doubt not but you doe the like for us, &amp;c.</hi>
+            </p>
+            <p n="14">14. We ſee what was the morning-ſtar of their expected day; <hi>Our enemies are ſo disjoyned, they will never be knit again;</hi> our diviſion is their greateſt hope.</p>
+            <p>By all which the revolted Seamen may ſee how they finke in their deſigne, that Princes are lyers,
+<pb n="6" facs="tcp:162156:5"/>and that by ſowing vanity, they are like to reap vex<g ref="char:EOLhyphen"/>ation; when they kept their truſt, their truſt kept them, their wages were monies: and now words are their wages, and care their coine: They have ravel<g ref="char:EOLhyphen"/>led themſelves in their owne ruine, which is moſt commonly the recompence of treachery; ſeldome thrives a Traitor, for his credite is crack'd with all hee trades with, penurie and miſery concludes his dayes. When all the Traitors at Sea are diven on ſhore, and Traitors at Land are put a Ship-board, the Sea will bee more calme, and the Land more quiet, the Warres concluded, and we ſhall bee all friends.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
